@@ -39,9 +39,5 @@ int length = gfg.length;
 print(length);
 
 }
-void getFirstElement(){
 
-
-  
-}
 
