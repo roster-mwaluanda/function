@@ -4,7 +4,7 @@ subtractTwo(10,15);
 multiplyTwo(2.4, 5);
 divideTwo(24, 4);
 
-String gfg="welcome to GreekforGreeks";
+String gfg="welcome to dart programming language";
 stringLength(gfg);
 
 }
